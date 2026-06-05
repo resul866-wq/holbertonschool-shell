@@ -1,1 +1,1 @@
-# Holberton School - Shell Permissions
+This repository contains Shell permissions tasks.
