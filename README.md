@@ -1,1 +1,1 @@
-This repository contains Shell permissions tasks.
+Holberton School System Engineering & DevOps - Shell Permissions
